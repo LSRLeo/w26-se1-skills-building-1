@@ -1,0 +1,14 @@
+{
+  "555-1234": {
+    "name": "John Doe",
+    "email": "john@example.com"
+  },
+  "555-5678": {
+    "name": "Alice Johnson",
+    "email": "alice@example.com"
+  },
+  "555-9876": {
+    "name": "Jane Smith",
+    "email": "jane@email.com"
+  }
+}
